@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+Welcome to the AutomationTests wiki!
+# Repos, Commits and Pull Request Statergy
+![](https://dev.azure.com/SoumyaYalamanchili/2f77fd1c-d6ca-45ca-942c-c9e5cc230e24/_apis/git/repositories/e5788120-7fed-421d-81cb-d42bafee7717/Items?path=%2F.attachments%2Fimage-091a3e85-a65c-4573-b364-47339f60a36a.png&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1&sanitize=true&versionDescriptor.version=wikiMaster)
 
-You can use the [editor on GitHub](https://github.com/SoumyaYalamanchili/AutomationTests/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Continuous integration
+![](https://dev.azure.com/SoumyaYalamanchili/2f77fd1c-d6ca-45ca-942c-c9e5cc230e24/_apis/git/repositories/e5788120-7fed-421d-81cb-d42bafee7717/Items?path=%2F.attachments%2Fimage-5b399a7e-fba9-40e1-8d65-970719a9c00b.png&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1&sanitize=true&versionDescriptor.version=wikiMaster)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Continuous deployment
+![](https://dev.azure.com/SoumyaYalamanchili/2f77fd1c-d6ca-45ca-942c-c9e5cc230e24/_apis/git/repositories/e5788120-7fed-421d-81cb-d42bafee7717/Items?path=%2F.attachments%2Fimage-bdb40cce-c6cc-4bc7-847b-2128b2b83e89.png&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1&sanitize=true&versionDescriptor.version=wikiMaster)
 
-### Markdown
+# Continous Monitoring of Test Results and Error Logs
+![](https://dev.azure.com/SoumyaYalamanchili/2f77fd1c-d6ca-45ca-942c-c9e5cc230e24/_apis/git/repositories/e5788120-7fed-421d-81cb-d42bafee7717/Items?path=%2F.attachments%2Fimage-b7ad44bf-d119-4934-ab21-b04b37515db8.png&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1&sanitize=true&versionDescriptor.version=wikiMaster)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Ability to See Screenshots of failed Tests
+![](https://dev.azure.com/SoumyaYalamanchili/2f77fd1c-d6ca-45ca-942c-c9e5cc230e24/_apis/git/repositories/e5788120-7fed-421d-81cb-d42bafee7717/Items?path=%2F.attachments%2Fimage-59fef0e3-5678-4812-a143-43faad7af5dc.png&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1&sanitize=true&versionDescriptor.version=wikiMaster)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SoumyaYalamanchili/AutomationTests/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# Continuous Cross Browser Testing
+Using Leading Browser like **Chrome**, **Firefox**, **Edge**, **IE**
+![](https://dev.azure.com/SoumyaYalamanchili/2f77fd1c-d6ca-45ca-942c-c9e5cc230e24/_apis/git/repositories/e5788120-7fed-421d-81cb-d42bafee7717/Items?path=%2F.attachments%2Fimage-c9908d79-45d2-4e43-b27b-b75ab6a0dfc4.png&download=false&resolveLfs=true&%24format=octetStream&api-version=5.0-preview.1&sanitize=true&versionDescriptor.version=wikiMaster)
